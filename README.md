@@ -10,9 +10,10 @@ sem precisar investir em infraestrutura física. Isso traz vantagens como escala
 
 Outro ponto importante foi a comparação entre os modelos de nuvem. Aprendi que existem três principais:
 
-IaaS (Infraestrutura como Serviço) – onde alugamos máquinas virtuais, redes e armazenamento.
-PaaS (Plataforma como Serviço) – que oferece um ambiente pronto para desenvolvimento sem precisar gerenciar servidores.
-SaaS (Software como Serviço) – onde usamos aplicativos diretamente na nuvem, como o Google Drive e o Microsoft 365.
-Além disso, também vi a diferença entre CapEx (Capital Expenditure) e OpEx (Operational Expenditure). CapEx são investimentos grandes e pontuais, 
-como comprar servidores, enquanto OpEx são custos operacionais recorrentes, como pagar por serviços na nuvem conforme o uso. 
-A vantagem da nuvem é justamente permitir que empresas foquem mais no modelo OpEx, pagando apenas pelo que utilizam.
+Aprendi sobre os três principais tipos de nuvem:
+
+Nuvem Pública – É oferecida por provedores como AWS, Azure e Google Cloud, onde os recursos são compartilhados entre vários usuários. É uma opção escalável e econômica, ideal para empresas que não querem investir em infraestrutura própria.
+Nuvem Privada – Criada e utilizada exclusivamente por uma única empresa, oferecendo mais controle e segurança. Pode estar hospedada localmente ou em um data center terceirizado.
+Nuvem Híbrida – Combina a nuvem pública e privada, permitindo que empresas aproveitem a escalabilidade da nuvem pública enquanto mantêm dados sensíveis em uma nuvem privada.
+
+Além disso, também vi a diferença entre CapEx (Capital Expenditure) e OpEx (Operational Expenditure). CapEx são investimentos grandes e pontuais, como comprar servidores físicos, enquanto OpEx são custos operacionais recorrentes, como pagar por serviços de nuvem conforme o uso. A vantagem da computação em nuvem é justamente permitir que empresas foquem mais no modelo OpEx, pagando apenas pelos recursos utilizados, sem a necessidade de grandes investimentos iniciais.
