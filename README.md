@@ -8,8 +8,7 @@ Também aprendi que, apesar de precisar cadastrar um cartão, não há cobrança
 Depois, entrei no conceito de computação em nuvem e como ela funciona. Basicamente, a nuvem permite acessar recursos computacionais sob demanda, 
 sem precisar investir em infraestrutura física. Isso traz vantagens como escalabilidade, flexibilidade e custo mais previsível.
 
-Outro ponto importante foi a comparação entre os modelos de nuvem. Aprendi que existem três principais:
-
+Outro ponto importante foi a comparação entre os modelos de nuvem. 
 Aprendi sobre os três principais tipos de nuvem:
 <br><br>
 Nuvem Pública – É oferecida por provedores como AWS, Azure e Google Cloud, onde os recursos são compartilhados entre vários usuários. É uma opção escalável e econômica, ideal para empresas que não querem investir em infraestrutura própria.
