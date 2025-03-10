@@ -11,12 +11,12 @@ sem precisar investir em infraestrutura física. Isso traz vantagens como escala
 Outro ponto importante foi a comparação entre os modelos de nuvem. Aprendi que existem três principais:
 
 Aprendi sobre os três principais tipos de nuvem:
-<br>
+<br><br>
 Nuvem Pública – É oferecida por provedores como AWS, Azure e Google Cloud, onde os recursos são compartilhados entre vários usuários. É uma opção escalável e econômica, ideal para empresas que não querem investir em infraestrutura própria.
-<br>
+<br><br>
 Nuvem Privada – Criada e utilizada exclusivamente por uma única empresa, oferecendo mais controle e segurança. Pode estar hospedada localmente ou em um data center terceirizado.
-<br>
+<br><br>
 Nuvem Híbrida – Combina a nuvem pública e privada, permitindo que empresas aproveitem a escalabilidade da nuvem pública enquanto mantêm dados sensíveis em uma nuvem privada.
-<br>
+<br><br>
 
 Além disso, também vi a diferença entre CapEx (Capital Expenditure) e OpEx (Operational Expenditure). CapEx são investimentos grandes e pontuais, como comprar servidores físicos, enquanto OpEx são custos operacionais recorrentes, como pagar por serviços de nuvem conforme o uso. A vantagem da computação em nuvem é justamente permitir que empresas foquem mais no modelo OpEx, pagando apenas pelos recursos utilizados, sem a necessidade de grandes investimentos iniciais.
